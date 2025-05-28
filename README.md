@@ -1,7 +1,6 @@
-# sakurabus-support
-Support page for SakuraBus app
+# SakuraBus
 
-# SakuraBus - サポートページ
+## SakuraBus - サポートページ
 
 ご利用ありがとうございます。
 
@@ -10,4 +9,4 @@ Support page for SakuraBus app
 📧 メールアドレス：shyanster@gmail.com
 
 開発者：YAN SHEN  
-バージョン：1.0  
+バージョン：1.0
